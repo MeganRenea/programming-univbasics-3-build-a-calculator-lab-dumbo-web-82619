@@ -19,5 +19,5 @@ num2%num1
 end
 
 def square_root(num)
-Math.square_rootrt()
+Math.sqrt(num)
 end
